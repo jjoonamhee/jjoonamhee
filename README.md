@@ -1,5 +1,10 @@
 # 🧑‍💻 박남주 | paknj016@gmail.com | 010-XXXX-XXXX
 
+---
+### test
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 개발이 즐거운 신입 연구자입니다.  
 현장 데이터를 이해하고 실질적인 개선을 설계하는 제조 AI 분야에서,  
 기술융합과 산업 AI 혁신을 주도하는 개발자를 지향합니다.
